@@ -1,0 +1,14 @@
+img {
+    width: 200px;
+}
+
+body {
+    text-align: center;
+    font-famiy: 'Arial';
+    background: rgb(248, 228, 158);
+    color: rgb(10, 50, 151);
+}
+
+h1 {
+    text-decoration: underline;
+}
