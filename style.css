@@ -10,5 +10,6 @@ body {
 }
 
 h1 {
+    padding-top: 10%;
     text-decoration: underline;
 }
